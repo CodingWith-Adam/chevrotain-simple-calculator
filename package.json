@@ -1,0 +1,17 @@
+{
+  "name": "chevrotain-simple-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chevrotain": "^10.4.2",
+    "nodemon": "^2.0.20"
+  }
+}
